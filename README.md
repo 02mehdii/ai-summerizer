@@ -2,7 +2,7 @@
 
 ![Screenshot!](src/assets/Screenshot%202023-09-06%20134053.png)
 
-Overview
+# Overview
 
 This repository contains the code for a web application that leverages the power of artificial intelligence to automatically summarize articles. Whether you're a busy professional looking to save time or a curious reader seeking quick insights, our Article Summarizer Website has got you covered.
 
